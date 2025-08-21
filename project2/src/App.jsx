@@ -48,7 +48,7 @@ export default function App() {
 
   return (
     <div className="app">
-      <h1 className="app-title">Alex Johnson</h1>
+      <h1 className="app-title">Jagadeesh</h1>
       <p className="app-subtitle">
         Full Stack Developer & Creative Enthusiast
       </p>
